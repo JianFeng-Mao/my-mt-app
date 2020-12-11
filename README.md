@@ -1,4 +1,4 @@
-# my-mt-app
+# vue-简陋美团网（功能不完善）
 
 ## Project setup
 ```
